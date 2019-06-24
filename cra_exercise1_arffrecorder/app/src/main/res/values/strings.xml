@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ARFFRecorder</string>
+    <string name="acc_title">Accelerometer</string>
+    <string name="filename_title">Filename:</string>
+    <string name="filenameHintMessage">Please insert filename for data logging</string>
+    <string name="record_title">Recorder Running:</string>
+    <string name="filename_extension">.arff</string>
+    <string name="sensor_writing_channel_name">Sensor Writing Channel</string>
+    <string name="sensor_writing_content_title">Writing sensor data to file</string>
+    <string name="sensor_writing_content_text">Tab to get to the app</string>
+</resources>
