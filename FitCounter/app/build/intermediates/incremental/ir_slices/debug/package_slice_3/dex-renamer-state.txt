@@ -1,0 +1,4 @@
+#Tue Jul 02 20:43:23 CEST 2019
+base.0=C\:\\Users\\steve\\AndroidStudioProjects\\FitCounter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
